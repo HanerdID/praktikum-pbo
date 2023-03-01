@@ -1,3 +1,9 @@
+/**
+Titik.java
+Penulis: Fikri Prasetya Nurhidayat
+Deskripsi: Kelas yang berisi program utama yang memanfaatkan kelas Titik
+**/
+
 class Titik {
 	Double absis;
 	Double ordinat;
