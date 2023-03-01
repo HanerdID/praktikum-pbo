@@ -22,6 +22,5 @@ class MTitik {
 		System.out.println("t1.y = " + t1.getOrdinat());
 		System.out.println("t2.x = " +t2.getAbsis());
 		System.out.println("t2.y = " + t2.getOrdinat());
-		System.out.println("counter Titik =  " + t2.getcounterTitik());
 	}
 }
