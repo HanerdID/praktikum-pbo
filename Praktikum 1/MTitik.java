@@ -2,7 +2,9 @@
 Nama File	: MTitik.java
 Penulis		: Fikri Prasetya Nurhidayat
 NIM		: 24060121140153
+Tanggal		: 22 Februari 2023
 Deskripsi	: Kelas yang berisi program utama yang memanfaatkan kelas MTitik
+Lab		: B1
 **/
 
 class MTitik {
