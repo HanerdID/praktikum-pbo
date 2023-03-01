@@ -1,7 +1,8 @@
 /**
-Titik.java
-Penulis: Fikri Prasetya Nurhidayat
-Deskripsi: Kelas yang berisi program utama yang memanfaatkan kelas Titik
+Nama File	: Titik.java
+Penulis		: Fikri Prasetya Nurhidayat
+NIM		: 24060121140153
+Deskripsi	: Kelas yang berisi program utama yang memanfaatkan kelas Titik
 **/
 
 class Titik {
