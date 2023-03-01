@@ -1,7 +1,8 @@
 /**
-MTitik.java
-Penulis: Fikri Prasetya Nurhidayat
-Deskripsi: Kelas yang berisi program utama yang memanfaatkan kelas MTitik
+Nama File	: MTitik.java
+Penulis		: Fikri Prasetya Nurhidayat
+NIM		: 24060121140153
+Deskripsi	: Kelas yang berisi program utama yang memanfaatkan kelas MTitik
 **/
 
 class MTitik {
