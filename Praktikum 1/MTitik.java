@@ -1,3 +1,9 @@
+/**
+MTitik.java
+Penulis: Fikri Prasetya Nurhidayat
+Deskripsi: Kelas yang berisi program utama yang memanfaatkan kelas MTitik
+**/
+
 class MTitik {
 	public static void main(String[] args) {
 		Titik t1;
