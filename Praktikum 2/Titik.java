@@ -3,7 +3,7 @@ Nama File	: Titik.java
 Penulis		: Fikri Prasetya Nurhidayat
 NIM		: 24060121140153
 Tanggal		: 1 Maret 2023
-Deskripsi	: Kelas yang berisi program utama yang memanfaatkan kelas MTitik
+Deskripsi	: Kelas yang berisi program utama yang memanfaatkan kelas Titik
 Lab		: B1
 **/
 
