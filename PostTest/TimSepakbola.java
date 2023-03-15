@@ -1,8 +1,8 @@
 /**
  * File         : TimSepakbola.java 15/03/2023
  * Penulis      : Fikri Prasetya Nurhidayat
- * NIM		      : 24060121140153
- * Lab		      : B1
+ * NIM		    : 24060121140153
+ * Lab		    : B1
  */
 
 class TimSepakbola {
