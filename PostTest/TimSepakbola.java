@@ -1,3 +1,10 @@
+/**
+ * File         : TimSepakbola.java 15/03/2023
+ * Penulis      : Fikri Prasetya Nurhidayat
+ * NIM		      : 24060121140153
+ * Lab		      : B1
+ */
+
 class TimSepakbola {
 
   // Assume there are only 2 teams using this class!
