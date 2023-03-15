@@ -1,7 +1,8 @@
 /**
- * File         : PersegiPanjang.java 08/03/2023
+ * File         : MTimSepakbola.java 15/03/2023
  * Penulis      : Fikri Prasetya Nurhidayat
- * Deskripsi    : Representasi dari objek persegi panjang, turunan kelas poligon
+ * NIM		: 24060121140153
+ * Lab		: B1
  */
 
 class MTimSepakbola {
