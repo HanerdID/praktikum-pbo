@@ -1,18 +1,16 @@
 /**
-* File		    : AngkaSial.java 01-04-2023
+* File		: AngkaSial.java 01-04-2023
 * Nama / NIM	: Fikri Prasetya Nurhidayat / 24060121140153
 * Deskripsi     : Program penggunaan exception buatan sendiri. Pengenalan klausa 'throw' dan 'throws'
 **/
 
 public class AngkaSial{
-	
 	public void cobaAngka(int angka) throws AngkaSialException{
 		if(angka == 13){
 			throw new AngkaSialException();
 		}
 		System.out.println(angka+" bukan angka sial");
 	}
-	
 	public static void main(String[] args){
 		AngkaSial as = new AngkaSial();
 		try{
@@ -20,7 +18,6 @@ public class AngkaSial{
 			as.cobaAngka(13);
 			as.cobaAngka(12);
 		}catch(AngkaSialException ase){
-			//method getMessage() telah ada pada kelas "Exception"
 			System.out.println(ase.getMessage());
 			System.out.println("hati-hati memasukkan angka!!!");
 		}
