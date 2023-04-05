@@ -29,12 +29,13 @@ public class AngkaSial{
 
 /*
 Pertanyaan modul: 
-Ketika eksepsi terjadi, apakah baris 12 (baris 12 pada codingan) pada AngkaSial.java di atas dieksekusi?
+Ketika eksepsi terjadi, apakah baris 12 (baris 13 pada codingan) pada AngkaSial.java di atas dieksekusi?
 
 Baris 12 tidak akan dieksekusi karena program langsung keluar dari blok try-catch 
 dan melanjutkan eksekusi pada blok catch.
-Apakah baris 21 (baris 21 pada codingan) pada AngkaSial.java di atas dieksekusi?
-Baris 21 pada AngkaSial.java tidak akan dieksekusi karena 
+
+Apakah baris 21 (baris 22 pada codingan) pada AngkaSial.java di atas dieksekusi?
+Baris 22 pada AngkaSial.java tidak akan dieksekusi karena 
 program keluar dari blok try-catch pada saat terjadi eksepsi.
 
 */
