@@ -26,3 +26,14 @@ public class Asersi2{
 		System.out.println("keliling lingkaran = "+kelilingLingkaran);
 	}
 }
+
+
+/* 
+Pertanyaan modul: 
+Ada yang kurang tepat pada program Asersi2 di atas?
+
+Ada, yang kurang tepat adalah kondisi jariJari > 0 yang seharusnya kondisi yang tepat adalah jariJari != 0. 
+Karena jika yang diinginkan angka yang bukan nol, maka masukan jari-jari masih bisa bernilai angka negatif.
+Sehingga jika jariJari > 0 digunakan, maka untuk jari-jari yang bernilai negatif tidak dapat dijalankan.
+Maka, kondisi yang paling tepat digunakan adalah jariJari != 0
+*/
