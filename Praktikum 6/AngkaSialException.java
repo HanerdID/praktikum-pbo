@@ -1,5 +1,5 @@
 /**
-* File		    : AngkaSialException.java 01-04-2023
+* File		: AngkaSialException.java 01-04-2023
 * Nama / NIM	: Fikri Prasetya Nurhidayat / 24060121140153
 * Deskripsi     : Eksepsi buatan sendiri, menolak masukan angka 13!
 **/
