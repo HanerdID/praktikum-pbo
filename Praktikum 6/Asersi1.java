@@ -1,5 +1,5 @@
 /**
-* File		    : Asersi1.java 01-04-2023
+* File		: Asersi1.java 01-04-2023
 * Nama / NIM	: Fikri Prasetya Nurhidayat / 24060121140153
 * Deskripsi     : Program untuk menunjukkan asersi
 **/
